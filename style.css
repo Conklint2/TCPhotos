@@ -6,6 +6,7 @@ html {
 }
 
 body {
+	background-color: #0B4974;
 }
 
 .portfolio {
@@ -15,6 +16,7 @@ body {
 }
 
 h1 {
+	color: #7AADD1;
 	display: inline;
 	padding: 0 5px 0 5px;
 	border-bottom: 1px solid;
